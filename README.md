@@ -38,7 +38,7 @@ C programming is a general-purpose, procedural, imperative computer programming 
 * **C**
 * **gcc**
 
-For more details see [Puppeteer Documentation](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjfze-pnoXuAhXoxYsBHenyCEoQFjAAegQIARAC&url=https%3A%2F%2Fpptr.dev%2F&usg=AOvVaw2QZiwHQIydLrpPkml8-Bvv).
+For more details see [Andy Sloane's Site](https://www.a1k0n.net/)
 
 ### Disclamer:
 This Was Made By Andy Sloane.(What A Legend!!!)
