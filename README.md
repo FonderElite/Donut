@@ -40,7 +40,9 @@ C programming is a general-purpose, procedural, imperative computer programming 
 
 # Purpose
 The purpose of this is for entertainment only.
-It is an ascii art of a donut that spins endlessly unless <pre>CTRL + C</pre> is pressed.
+It is an ascii art of a donut that spins endlessly unless 
+<pre>CTRL + C</pre> 
+is pressed.
 
 For more details see [Andy Sloane's Site](https://www.a1k0n.net/)
 
