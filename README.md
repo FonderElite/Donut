@@ -31,7 +31,7 @@ C programming is a general-purpose, procedural, imperative computer programming 
 
 # Usage
 1. First Install gcc
-1. ``gcc -o donut donut.c && sudo ./donut`` 
+1. ``gcc -o donut donut.c -lm`` 
 1. If error will occur try updating your machine since gcc is usually installed by default
 
 # Technology Used
