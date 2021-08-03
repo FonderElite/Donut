@@ -42,7 +42,7 @@ C programming is a general-purpose, procedural, imperative computer programming 
 The purpose of this is for entertainment only.
 It is an ascii art of a donut that spins endlessly unless ```CTRL C``` is pressed.
 
-For more details see [Andy Sloane's Site](https://www.a1k0n.net/)
+For more details see [Andy Sloane's Site](https://www.a1k0n.net/) <br>
 Math behind this program [Donut Math](https://www.a1k0n.net/2011/07/20/donut-math.html)
 
 ### Disclamer:
