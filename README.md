@@ -47,5 +47,5 @@ Math behind this program [Donut Math.](https://www.a1k0n.net/2011/07/20/donut-ma
 
 ### Disclamer:
 This Was Made By Andy Sloane.(What A Legend!!!)
-Feel Free to contact me through Gmail or Twitter [Social-Media](https://twitter.com/elitefonder) or [contact support] and we’ll help you sort out the problem.
+Feel Free to contact me through Gmail or Twitter [Social-Media](https://twitter.com/elitefonder) or [contact support] if there's any questions regarding this program.
 
